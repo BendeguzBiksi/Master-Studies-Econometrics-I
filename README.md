@@ -28,13 +28,13 @@ Econometrics I
 
   Files: 
   
-  Biksi_Mengzhe_2_assigment_econometrics_i_gas.do
-  
-  Biksi_Mengzhe_2_assigment_econometrics_i_prod.do
-  
   Econometrics_i_2_assigment_Gasoline.dta
   
   Econometrics_i_2_assigment_Production.dta
+  
+  Biksi_Mengzhe_2_assigment_econometrics_i_gas.do
+  
+  Biksi_Mengzhe_2_assigment_econometrics_i_prod.do
   
   Biksi_Xia_2_assigment_Econometrics_i.pdf
   
@@ -44,24 +44,27 @@ Econometrics I
 
   Files: 
   
+  Biksi_Mengzhe_3_assigment_econometrics_i_jec.dta
+  
   Biksi_Mengzhe_3_assigment_econometrics_i.do
   
   Biksi_Mengzhe_3_assigment_econometrics_i.pdf
   
-  Biksi_Mengzhe_3_assigment_econometrics_i_jec.dta
-  
-
-
+ 
 - Assignment 4: SURE, Systems of equations and panel data
 
   Files: 
-  
-  Biksi_Mengzhe_4_assigment_econometrics_i.pdf
-  
-  Biksi_Mengzhe_4_assigment_econometrics_i.do
   
   Biksi_Mengzhe_4_assigment_econometrics_i_panel_CMR.dta
   
   Biksi_Mengzhe_4_assigment_econometrics_i_panel_agriculture.dta
   
   Biksi_Mengzhe_4_assigment_econometrics_i_panel_forcapm.dta
+  
+  Biksi_Mengzhe_4_assigment_econometrics_i.do
+  
+  Biksi_Mengzhe_4_assigment_econometrics_i.pdf
+  
+  
+  
+
