@@ -6,7 +6,7 @@ clear all
 
 set more off
 
-import excel "D:\backup\BGSE\1.trimeszter\Econometrics\Bendegúz_István_Biksi.xls", sheet("Car Prices") firstrow
+import excel "D:\backup\BGSE\1.trimeszter\Econometrics\First_assignment_data.xls", sheet("Car Prices") firstrow
 
 
 
@@ -127,7 +127,7 @@ test -20000*Kilometers-4*Year=0
 * Bkilometers*(-20000)+Byear*(-4)=0, so we have to test this.
 * As the p-value of the test is smaller than .05, we can reject the null hypothesis.
 
-* 5. There is no heteroskedasticity problem (White’s test).
+* 5. There is no heteroskedasticity problem (Whiteâ€™s test).
 
 estat imtest, white
 
@@ -142,7 +142,7 @@ estat hettest Year HP
 * heteroscedasticity occurs.
 
 * f.) Estimate the model with and without robust standard errors. Do the robust
-* errors –and, therefore, the conclusions on significance- differ much from
+* errors â€“and, therefore, the conclusions on significance- differ much from
 * regular OLS standard errors?
 
 * Model without robust standard errors:
