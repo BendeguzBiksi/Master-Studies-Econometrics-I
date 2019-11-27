@@ -24,4 +24,4 @@ Econometrics I
 
 - Assignment 4: SURE, Systems of equations and panel data
 
-  Files: Biksi_Mengzhe_4_assigment_econometrics_i.pdf; Biksi_Mengzhe_4_assigment_econometrics_i.do; 
+  Files: Biksi_Mengzhe_4_assigment_econometrics_i.pdf; Biksi_Mengzhe_4_assigment_econometrics_i.do; Biksi_Mengzhe_4_assigment_econometrics_i_panel_CMR.dta; Biksi_Mengzhe_4_assigment_econometrics_i_panel_agriculture.dta; Biksi_Mengzhe_4_assigment_econometrics_i_panel_forcapm.dta
