@@ -28,15 +28,15 @@ Econometrics I
 
   Files: 
   
-  Econometrics_i_2_assigment_Gasoline.dta
+  Biksi_Mengzhe_2_assigment_econometrics_i_gas.dta
   
-  Econometrics_i_2_assigment_Production.dta
+  Biksi_Mengzhe_2_assigment_econometrics_i_prod.dta
   
   Biksi_Mengzhe_2_assigment_econometrics_i_gas.do
   
   Biksi_Mengzhe_2_assigment_econometrics_i_prod.do
   
-  Biksi_Xia_2_assigment_Econometrics_i.pdf
+  Biksi_Mengzhe_2_assigment_econometrics_i
   
   
 
