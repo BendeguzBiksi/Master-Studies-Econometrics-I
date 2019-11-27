@@ -3,7 +3,7 @@
 * BGSE 10/2015, fall term
 
 
-use "Econometrics_i_2_assigment_Gasoline.dta", clear
+use "Biksi_Mengzhe_2_assigment_econometrics_i_gas.dta", clear
 
 
 *exercise 1
