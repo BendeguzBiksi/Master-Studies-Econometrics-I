@@ -1,2 +1,2 @@
 # Master-Studies
-Master Degree Coursework
+Master's Degree Program Coursework
