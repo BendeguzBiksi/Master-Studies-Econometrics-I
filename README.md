@@ -24,4 +24,4 @@ Econometrics I
 
 - Assignment 4: SURE, Systems of equations and panel data
 
-  Files: Biksi_Mengzhe_4_assigment_econometrics_i.pdf; 
+  Files: Biksi_Mengzhe_4_assigment_econometrics_i.pdf; Biksi_Mengzhe_4_assigment_econometrics_i.do; 
