@@ -6,7 +6,7 @@ clear all
 
 set more off
 
-import excel "D:\backup\BGSE\1.trimeszter\Econometrics\Econometrics_I_1_assignment_data.xls", sheet("Car Prices") firstrow
+import excel "Biksi_Mengzhe_1_assigment_econometrics_i.xls", sheet("Car Prices") firstrow
 
 
 
