@@ -20,4 +20,6 @@ Econometrics I
 
 - Assignment 3: The third on multiple regression - tests of structural change, Instrumental variables
 
+  Files: Biksi_Mengzhe_3_assigment_econometrics_i.do; Biksi_Mengzhe_3_assigment_econometrics_i.pdf; Biksi_Mengzhe_3_assigment_econometrics_i_jec.dta
+
 - Assignment 4: SURE, Systems of equations and panel data
