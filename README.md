@@ -16,7 +16,7 @@ Econometrics I
   
   Files: 
   
-  Econometrics_I_1_assignment_data.xls
+  Biksi_Mengzhe_1_assigment_econometrics_i.xls
   
   Biksi_Mengzhe_1_assigment_econometrics_i.do
   
