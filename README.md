@@ -11,6 +11,8 @@ First trimester:
 Econometrics I
 
 - Assignment 1: The first on multiple regression
+  Files: Econometrics_I_1_assignment_data.xls, Biksi_Mengzhe_1_assigment_econometrics_i.do,           Biksi_Mengzhe_1_assigment_econometrics_i.pdf
+
 
 - Assignment 2: The second on multiple regression - Elasticity and nonlinear models
 
