@@ -1,5 +1,10 @@
 # Master-Studies
-Master's Degree Program Coursework
+
+Barcelona Graduate School of Economics
+
+Master's Degree in Specialized Economic Analysis: Competition and Market Regulation Program
+
+Coursework
 
 First trimester:
 
