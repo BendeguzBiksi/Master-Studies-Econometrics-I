@@ -10,6 +10,8 @@ First trimester:
 
 Econometrics I
 
+
+
 - Assignment 1: The first on multiple regression
   
   Files: 
@@ -19,6 +21,7 @@ Econometrics I
   Biksi_Mengzhe_1_assigment_econometrics_i.do
   
   Biksi_Mengzhe_1_assigment_econometrics_i.pdf
+  
   
 
 - Assignment 2: The second on multiple regression - Elasticity and nonlinear models
@@ -35,6 +38,7 @@ Econometrics I
   
   Biksi_Xia_2_assigment_Econometrics_i.pdf
   
+  
 
 - Assignment 3: The third on multiple regression - tests of structural change, Instrumental variables
 
@@ -46,6 +50,7 @@ Econometrics I
   
   Biksi_Mengzhe_3_assigment_econometrics_i_jec.dta
   
+
 
 - Assignment 4: SURE, Systems of equations and panel data
 
